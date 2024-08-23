@@ -1,0 +1,2 @@
+# fish_alog -cursor
+ 
